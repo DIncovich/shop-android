@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SharagaProject" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Основные цвета для светлой темы -->
+        <item name="colorPrimary">#6750A4</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSurface">#FFFBFE</item>
+        <item name="colorOnSurface">#1C1B1F</item>
+    </style>
+
+    <style name="Theme.SharagaProject" parent="Base.Theme.SharagaProject" />
+</resources>
